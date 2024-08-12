@@ -1,0 +1,9 @@
+:root {
+    --primary-color: rgb(148, 229, 170);
+}
+
+body {
+    min-height: 100vh;
+}
+
+
